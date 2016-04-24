@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="SliderMarvel.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookXamarinViewController.cs">
+    <Files>
+      <File FileName="BookXamarinViewController.cs" Line="516" Column="47" />
+      <File FileName="PageController.cs" Line="351" Column="45" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="Constants.cs" Line="22" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SliderMarvel" expanded="True">
+            <Node name="SliderMarvel" expanded="True">
+              <Node name="BookXamarinViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

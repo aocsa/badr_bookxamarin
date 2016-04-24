@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>books</key>
+	<array>
+		<dict>
+			<key>ChapterList</key>
+			<array>
+				<dict>
+					<key>CoverChapter</key>
+					<string>/books/0/ChapterList/0/vol0.png</string>
+					<key>DescriptionChapter</key>
+					<string>/books/0/ChapterList/0/thumbs-vol1.zip</string>
+					<key>IdChapter</key>
+					<string>3</string>
+					<key>NameChapter</key>
+					<string>Volumen I</string>
+					<key>Price</key>
+					<string>2.99</string>
+					<key>ProductIdentifier</key>
+					<string>com.itourperu.ayar.1</string>
+					<key>State</key>
+					<string>Buy</string>
+					<key>WasBought</key>
+					<string>YES</string>
+				</dict>
+			</array>
+			<key>ChapterSelected</key>
+			<string>0</string>
+			<key>IdBook</key>
+			<string>0</string>
+			<key>NameBook</key>
+			<string>Ayar: The Legend of the Inkas</string>
+			<key>Release date</key>
+			<date>2011-01-05T15:04:12Z</date>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1025,769}}</string>
+	        <key>image</key>
+	        <string>assets/1.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{222,12}, {144,101}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{811,34}, {191,179}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_2.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{130,419}, {192,105}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_3.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1059,802}}</string>
+	        <key>image</key>
+	        <string>assets/2.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{554,564}, {202,110}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{471,400}, {230,155}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_2.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+</array>
+</plist>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1025,769}}</string>
+	        <key>image</key>
+	        <string>assets/1.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{215,20}, {597,45}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{395,166}, {225,96}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_2.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{205,356}, {630,53}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_3.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{390,435}, {589,144}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_4.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{-4,0}, {1029,769}}</string>
+	        <key>image</key>
+	        <string>assets/2.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{110,75}, {158,135}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_1.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{21,27}, {382,239}}</string>
+																<key>text</key>
+																<string>assets/2_1_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{266,60}, {143,111}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_2.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{182,35}, {213,144}}</string>
+																<key>text</key>
+																<string>assets/2_2_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1031,769}}</string>
+	        <key>image</key>
+	        <string>assets/3.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{826,101}, {232,201}}</string>
+				                    <key>image</key>
+				                    <string>assets/3_1.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{608,493}, {392,240}}</string>
+																<key>text</key>
+																<string>assets/3_1_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{117,603}, {15,17}}</string>
+				                    <key>image</key>
+				                    <string>assets/3_2.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{621,528}, {371,104}}</string>
+																<key>text</key>
+																<string>assets/3_2_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+</array>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1025,769}}</string>
+	        <key>image</key>
+	        <string>assets/1.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{-13,169}, {259,131}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{347,290}, {160,100}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_2.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,169}, {1024,431}}</string>
+	        <key>image</key>
+	        <string>assets/2.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{637,170}, {202,113}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{829,168}, {172,153}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_2.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+</array>
+</plist>

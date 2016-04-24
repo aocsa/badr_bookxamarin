@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderMarvel", "SliderMarvel.csproj", "{7C4D19F9-AA69-4C37-862C-453453D1754C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Release|iPhone.Build.0 = Release|iPhone
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{7C4D19F9-AA69-4C37-862C-453453D1754C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

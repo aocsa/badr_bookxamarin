@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+		<dict>
+			<key>frame</key>
+	        <string>{{0,0}, {1025,769}}</string>
+	        <key>image</key>
+	        <string>assets/1.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{385,7}, {626,87}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_1.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{310,97}, {275,179}}</string>
+																<key>text</key>
+																<string>assets/1_1_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{807,215}, {11,8}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_2.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{304,428}, {281,154}}</string>
+																<key>text</key>
+																<string>assets/1_2_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{807,215}, {11,8}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_3.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{328,340}, {133,85}}</string>
+																<key>text</key>
+																<string>assets/1_3_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{807,215}, {11,8}}</string>
+				                    <key>image</key>
+				                    <string>assets/1_4.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{442,215}, {288,202}}</string>
+																<key>text</key>
+																<string>assets/1_4_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{23,28}, {173,378}}</string>
+	        <key>image</key>
+	        <string>assets/2.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{29,7}, {222,178}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_1.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{608,442}, {386,306}}</string>
+																<key>text</key>
+																<string>assets/2_1_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{807,215}, {11,8}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_2.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{756,468}, {138,123}}</string>
+																<key>text</key>
+																<string>assets/2_2_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{807,215}, {11,8}}</string>
+				                    <key>image</key>
+				                    <string>assets/2_3.png</string>
+									<key>glosary</key>
+									<array>
+															<dict>
+																<key>frame</key>
+																<string>{{749,575}, {100,54}}</string>
+																<key>text</key>
+																<string>assets/2_3_1.png</string>						
+															</dict>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+	        <string>{{150,157}, {179,378}}</string>
+	        <key>image</key>
+	        <string>assets/3.png</string>
+			<key>children</key>
+			<array>
+								<dict>
+				                    <key>frame</key>
+				                    <string>{{284,331}, {140,98}}</string>
+				                    <key>image</key>
+				                    <string>assets/3_1.png</string>
+									<key>glosary</key>
+									<array>
+									</array>
+				               </dict>
+			</array>
+		</dict>
+</array>
+</plist>
